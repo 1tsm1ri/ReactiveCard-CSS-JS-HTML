@@ -5,12 +5,12 @@
 </p>
 <p align='center'>
     <img 
-        src="https://media1.tenor.com/m/dCfrbku2n-8AAAAC/tvchany-anime-pixel-art.gif"  alt="Pixel Art Gif"
+        src="https://media1.tenor.com/m/dCfrbku2n-8AAAAC/tvchany-anime-pixel-art.gif" width="190" height="259" alt="Pixel Art Gif"
     />
 </p>
 <p align='center'>
     <img
-        src="https://readme-typing-svg.demolab.com/?font=Iosevka&size=16&pause=1000&color=731433&center=false&vCenter=false&width=435&lines=Done+following+the+tutorial+bellow+♡"
+        src="https://readme-typing-svg.demolab.com/?font=Iosevka&size=16&pause=1000&color=731433&center=true&vCenter=true&width=435&lines=Done+following+the+tutorial+bellow+♡"
         alt="Typing SVG"
     >
 </p>
