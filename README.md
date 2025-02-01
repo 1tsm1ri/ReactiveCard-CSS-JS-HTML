@@ -14,7 +14,6 @@
         alt="Typing SVG"
     >
 </p>
-<br></br>
 
 <p align='center'>
     <img 
